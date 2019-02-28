@@ -1,0 +1,18 @@
+linux环境要求：
+    mysql-devel包
+
+python环境要求：
+    torndb源码修改：
+        1.265行修改为如下：
+            CONVERSIONS[field_type] = [(FLAG.BINARY, str)] + CONVERSIONS[field_type]
+
+        2.修改query方法
+            # return [Row(itertools.izip(column_names, row)) for row in cursor]
+            return [Row(itertools.zip_longest(column_names, row)) for row in cursor]
+
+
+        3.修改get方法
+            rows = self.query(query, *parameters, **kwparameters)
+            if isinstance(rows, future_type):
+                rows = rows.result()
+

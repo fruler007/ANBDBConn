@@ -1,0 +1,1360 @@
+[I 190215 15:27:23 autoreload:196] /home/fruler/PycharmProjects/TestAsync/config.py modified; restarting server
+[I 190215 15:27:46 web:2106] 200 GET / (127.0.0.1) 136.83ms
+[W 190215 15:27:46 web:2106] 404 GET /favicon.ico (127.0.0.1) 2.30ms
+[I 190215 15:37:14 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[E 190215 15:37:17 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:17 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:17 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:17 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:17 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:17 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:17 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:17 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:17 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:17 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:17 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:17 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:17 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:19 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:19 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:19 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:19 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:19 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:24 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:24 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:24 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:24 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:54 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:54 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:54 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:37:54 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[E 190215 15:38:55 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[I 190215 15:38:57 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[E 190215 15:39:12 http1connection:54] Uncaught exception
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/http1connection.py", line 237, in _read_message
+        delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/routing.py", line 256, in finish
+        self.delegate.finish()
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/httpserver.py", line 230, in finish
+        self.request_callback(self.request)
+    TypeError: object() takes no parameters
+[I 190215 15:45:51 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190215 15:46:02 web:2106] 200 GET /test (127.0.0.1) 1.07ms
+[I 190215 16:00:36 autoreload:196] server.py modified; restarting server
+[I 190215 16:01:48 autoreload:196] server.py modified; restarting server
+[I 190215 16:34:10 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190215 16:35:53 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190215 16:36:14 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190215 16:39:42 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/base_handler.py modified; restarting server
+[E 190215 16:41:40 web:1621] Uncaught exception GET /test/mysql (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/mysql', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 13, in get
+        query = self.db.get(sql)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 148, in get
+        rows = self.query(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 138, in query
+        return [Row(itertools.izip(column_names, row)) for row in cursor]
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 138, in <listcomp>
+        return [Row(itertools.izip(column_names, row)) for row in cursor]
+    AttributeError: module 'itertools' has no attribute 'izip'
+[E 190215 16:41:40 web:2106] 500 GET /test/mysql (127.0.0.1) 15.53ms
+[I 190215 16:42:24 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[E 190215 16:42:27 web:1621] Uncaught exception GET /test/mysql (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/mysql', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 13, in get
+        query = self.db.get(sql)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 148, in get
+        rows = self.query(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 138, in query
+        return [Row(itertools.izip(column_names, row)) for row in cursor]
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 138, in <listcomp>
+        return [Row(itertools.izip(column_names, row)) for row in cursor]
+    AttributeError: module 'itertools' has no attribute 'izip'
+[E 190215 16:42:27 web:2106] 500 GET /test/mysql (127.0.0.1) 503.74ms
+[E 190215 16:42:35 web:1621] Uncaught exception GET /test/mysql (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/mysql', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 13, in get
+        query = self.db.get(sql)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 148, in get
+        rows = self.query(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 138, in query
+        return [Row(itertools.izip(column_names, row)) for row in cursor]
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 138, in <listcomp>
+        return [Row(itertools.izip(column_names, row)) for row in cursor]
+    AttributeError: module 'itertools' has no attribute 'izip'
+[E 190215 16:42:35 web:2106] 500 GET /test/mysql (127.0.0.1) 114.11ms
+[E 190215 16:44:04 web:1621] Uncaught exception GET /test/mysql (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/mysql', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 13, in get
+        query = self.db.get(sql)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 148, in get
+        rows = self.query(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 138, in query
+        return [Row(itertools.izip(column_names, row)) for row in cursor]
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 138, in <listcomp>
+        return [Row(itertools.izip(column_names, row)) for row in cursor]
+    AttributeError: module 'itertools' has no attribute 'izip'
+[E 190215 16:44:04 web:2106] 500 GET /test/mysql (127.0.0.1) 13.46ms
+[I 190215 16:44:32 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[E 190215 16:44:37 web:1621] Uncaught exception GET /test/mysql (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/mysql', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 13, in get
+        query = self.db.get(sql)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 148, in get
+        rows = self.query(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 138, in query
+        return [Row(itertools.izip(column_names, row)) for row in cursor]
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 138, in <listcomp>
+        return [Row(itertools.izip(column_names, row)) for row in cursor]
+    AttributeError: module 'itertools' has no attribute 'izip'
+[E 190215 16:44:37 web:2106] 500 GET /test/mysql (127.0.0.1) 9.33ms
+[I 190215 16:44:42 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[E 190215 16:44:43 web:1621] Uncaught exception GET /test/mysql (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/mysql', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 13, in get
+        query = self.db.get(sql)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 148, in get
+        rows = self.query(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 138, in query
+        return [Row(itertools.izip(column_names, row)) for row in cursor]
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 138, in <listcomp>
+        return [Row(itertools.izip(column_names, row)) for row in cursor]
+    AttributeError: module 'itertools' has no attribute 'izip'
+[E 190215 16:44:43 web:2106] 500 GET /test/mysql (127.0.0.1) 13.53ms
+[E 190215 16:44:48 web:1621] Uncaught exception GET /test/mysql (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/mysql', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 13, in get
+        query = self.db.get(sql)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 148, in get
+        rows = self.query(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 138, in query
+        return [Row(itertools.izip(column_names, row)) for row in cursor]
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 138, in <listcomp>
+        return [Row(itertools.izip(column_names, row)) for row in cursor]
+    AttributeError: module 'itertools' has no attribute 'izip'
+[E 190215 16:44:48 web:2106] 500 GET /test/mysql (127.0.0.1) 12.13ms
+[E 190215 16:54:58 web:1621] Uncaught exception GET /test/mysql (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/mysql', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 13, in get
+        query = self.db.get(sql)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 149, in get
+        rows = self.query(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 139, in query
+        return [Row(itertools.izip(column_names, row)) for row in cursor]
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 139, in <listcomp>
+        return [Row(itertools.izip(column_names, row)) for row in cursor]
+    AttributeError: module 'itertools' has no attribute 'izip'
+[E 190215 16:54:58 web:2106] 500 GET /test/mysql (127.0.0.1) 25.97ms
+[E 190215 16:55:00 web:1621] Uncaught exception GET /test/mysql (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/mysql', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 13, in get
+        query = self.db.get(sql)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 149, in get
+        rows = self.query(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 139, in query
+        return [Row(itertools.izip(column_names, row)) for row in cursor]
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 139, in <listcomp>
+        return [Row(itertools.izip(column_names, row)) for row in cursor]
+    AttributeError: module 'itertools' has no attribute 'izip'
+[E 190215 16:55:00 web:2106] 500 GET /test/mysql (127.0.0.1) 10.27ms
+[E 190215 16:55:23 web:1621] Uncaught exception GET /test/mysql (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/mysql', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 13, in get
+        query = self.db.get(sql)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 149, in get
+        rows = self.query(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 139, in query
+        return [Row(itertools.izip(column_names, row)) for row in cursor]
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 139, in <listcomp>
+        return [Row(itertools.izip(column_names, row)) for row in cursor]
+    AttributeError: module 'itertools' has no attribute 'izip'
+[E 190215 16:55:23 web:2106] 500 GET /test/mysql (127.0.0.1) 15.51ms
+[E 190215 17:02:53 web:1621] Uncaught exception GET /test/mysql (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/mysql', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 13, in get
+        query = self.db.get(sql)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 153, in get
+        raise Exception("Multiple rows returned for Database.get() query")
+    Exception: Multiple rows returned for Database.get() query
+[E 190215 17:02:53 web:2106] 500 GET /test/mysql (127.0.0.1) 11.60ms
+[I 190215 17:03:48 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190215 17:03:57 web:2106] 200 GET /test/mysql (127.0.0.1) 77.25ms
+[I 190215 17:06:27 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190215 17:06:31 web:2106] 304 GET /test/mysql (127.0.0.1) 13.03ms
+[I 190215 17:06:44 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190215 17:06:48 web:2106] 304 GET /test/mysql (127.0.0.1) 12.28ms
+[I 190215 17:25:56 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190215 17:27:11 web:2106] 304 GET /test/mysql (127.0.0.1) 12.03ms
+[I 190215 17:27:26 web:2106] 200 GET /test/asyncmysql (127.0.0.1) 20.69ms
+[I 190216 11:26:04 autoreload:196] /home/fruler/PycharmProjects/TestAsync/config.py modified; restarting server
+[I 190216 11:26:43 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 11:26:55 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 11:32:37 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[E 190216 11:32:41 web:1621] Uncaught exception GET /test/asyncmysql (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/asyncmysql', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1543, in _execute
+        result = yield result
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/gen.py", line 1100, in run
+        value = future.result()
+      File "/usr/local/python-3.5.2/lib/python3.5/asyncio/futures.py", line 274, in result
+        raise self._exception
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/gen.py", line 315, in wrapper
+        yielded = next(result)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 23, in get
+        query = yield self.asyncdb.query(sql);
+      File "/home/fruler/PycharmProjects/TestAsync/utils/async_db.py", line 11, in wrapper
+        result = func(query, *args, **kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/utils/async_db.py", line 27, in query
+        return super(AsyncMysql, self).query(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 136, in query
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 250, in execute
+        self.errorhandler(self, exc, value)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+        raise errorvalue
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 247, in execute
+        res = self._query(query)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 411, in _query
+        rowcount = self._do_query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+        db.query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 277, in query
+        _mysql.connection.query(self, query)
+    _mysql_exceptions.ProgrammingError: (1146, "Table 'torndb.ih_house_info' doesn't exist")
+[E 190216 11:32:41 web:2106] 500 GET /test/asyncmysql (127.0.0.1) 59.51ms
+[E 190216 11:32:47 web:1621] Uncaught exception GET /test/mysql (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/mysql', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 14, in get
+        query = self.db.query(sql)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 136, in query
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 250, in execute
+        self.errorhandler(self, exc, value)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+        raise errorvalue
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 247, in execute
+        res = self._query(query)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 411, in _query
+        rowcount = self._do_query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+        db.query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 277, in query
+        _mysql.connection.query(self, query)
+    _mysql_exceptions.ProgrammingError: (1146, "Table 'torndb.tb_user_profile' doesn't exist")
+[E 190216 11:32:47 web:2106] 500 GET /test/mysql (127.0.0.1) 54.22ms
+[E 190216 11:33:04 web:1621] Uncaught exception GET /test/mysql (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/mysql', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 14, in get
+        query = self.db.query(sql)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 136, in query
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 250, in execute
+        self.errorhandler(self, exc, value)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+        raise errorvalue
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 247, in execute
+        res = self._query(query)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 411, in _query
+        rowcount = self._do_query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+        db.query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 277, in query
+        _mysql.connection.query(self, query)
+    _mysql_exceptions.ProgrammingError: (1146, "Table 'torndb.tb_user_profile' doesn't exist")
+[E 190216 11:33:04 web:2106] 500 GET /test/mysql (127.0.0.1) 51.70ms
+[I 190216 11:33:11 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 11:33:13 web:2106] 200 GET /test/mysql (127.0.0.1) 293.30ms
+[I 190216 11:34:53 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 12:11:24 web:2106] 304 GET /test/mysql (127.0.0.1) 52.63ms
+[I 190216 12:11:50 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 12:11:53 web:2106] 304 GET /test/mysql (127.0.0.1) 53.32ms
+[W 190216 12:11:58 web:2106] 404 GET /test/batchinsert (127.0.0.1) 2.47ms
+[I 190216 12:12:14 autoreload:196] /home/fruler/PycharmProjects/TestAsync/url_pattern.py modified; restarting server
+[W 190216 12:12:25 web:2106] 404 GET /test/batchinsert (127.0.0.1) 5.48ms
+[W 190216 12:12:40 web:2106] 404 GET /test/batchinsert (127.0.0.1) 3.94ms
+[I 190216 12:13:10 autoreload:196] /home/fruler/PycharmProjects/TestAsync/url_pattern.py modified; restarting server
+[I 190216 12:13:15 autoreload:196] /home/fruler/PycharmProjects/TestAsync/url_pattern.py modified; restarting server
+[E 190216 12:13:19 web:1621] Uncaught exception GET /test/batchinsert (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/batchinsert', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 16, in get
+        user_mobile=user_mobile, user_email=user_email)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 161, in execute
+        return self.execute_lastrowid(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 167, in execute_lastrowid
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 250, in execute
+        self.errorhandler(self, exc, value)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+        raise errorvalue
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 247, in execute
+        res = self._query(query)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 411, in _query
+        rowcount = self._do_query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+        db.query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 277, in query
+        _mysql.connection.query(self, query)
+    _mysql_exceptions.IntegrityError: (1062, "Duplicate entry '1' for key 'PRIMARY'")
+[E 190216 12:13:19 web:2106] 500 GET /test/batchinsert (127.0.0.1) 410.81ms
+[E 190216 12:14:10 web:1621] Uncaught exception GET /test/batchinsert (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/batchinsert', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 16, in get
+        user_mobile=user_mobile, user_email=user_email)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 161, in execute
+        return self.execute_lastrowid(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 167, in execute_lastrowid
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 250, in execute
+        self.errorhandler(self, exc, value)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+        raise errorvalue
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 247, in execute
+        res = self._query(query)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 411, in _query
+        rowcount = self._do_query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+        db.query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 277, in query
+        _mysql.connection.query(self, query)
+    _mysql_exceptions.IntegrityError: (1062, "Duplicate entry '3' for key 'PRIMARY'")
+[E 190216 12:14:10 web:2106] 500 GET /test/batchinsert (127.0.0.1) 746.22ms
+[I 190216 12:15:49 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 12:16:27 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 12:19:35 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 12:19:47 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[E 190216 12:20:08 web:1621] Uncaught exception GET /test/batchinsert (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/batchinsert', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 18, in get
+        user_mobile=user_mobile, user_email=user_email)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 161, in execute
+        return self.execute_lastrowid(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 167, in execute_lastrowid
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 250, in execute
+        self.errorhandler(self, exc, value)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+        raise errorvalue
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 247, in execute
+        res = self._query(query)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 411, in _query
+        rowcount = self._do_query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+        db.query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 277, in query
+        _mysql.connection.query(self, query)
+    _mysql_exceptions.IntegrityError: (1062, "Duplicate entry '4' for key 'PRIMARY'")
+[E 190216 12:20:08 web:2106] 500 GET /test/batchinsert (127.0.0.1) 642.73ms
+[E 190216 12:35:26 web:1621] Uncaught exception GET /test/batchinsert (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/batchinsert', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 18, in get
+        user_mobile=user_mobile, user_email=user_email)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 161, in execute
+        return self.execute_lastrowid(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 167, in execute_lastrowid
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 250, in execute
+        self.errorhandler(self, exc, value)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+        raise errorvalue
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 247, in execute
+        res = self._query(query)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 411, in _query
+        rowcount = self._do_query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+        db.query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 277, in query
+        _mysql.connection.query(self, query)
+    _mysql_exceptions.IntegrityError: (1062, "Duplicate entry '0@fruler.com' for key 'up_email'")
+[E 190216 12:35:26 web:2106] 500 GET /test/batchinsert (127.0.0.1) 56.77ms
+[E 190216 12:36:13 web:1621] Uncaught exception GET /test/batchinsert (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/batchinsert', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 18, in get
+        user_mobile=user_mobile, user_email=user_email)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 161, in execute
+        return self.execute_lastrowid(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 167, in execute_lastrowid
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 250, in execute
+        self.errorhandler(self, exc, value)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+        raise errorvalue
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 247, in execute
+        res = self._query(query)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 411, in _query
+        rowcount = self._do_query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+        db.query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 277, in query
+        _mysql.connection.query(self, query)
+    _mysql_exceptions.IntegrityError: (1062, "Duplicate entry '6' for key 'PRIMARY'")
+[E 190216 12:36:13 web:2106] 500 GET /test/batchinsert (127.0.0.1) 764.42ms
+[I 190216 12:45:36 autoreload:196] /home/fruler/PycharmProjects/TestAsync/config.py modified; restarting server
+[I 190216 12:45:38 autoreload:196] /home/fruler/PycharmProjects/TestAsync/config.py modified; restarting server
+[E 190216 12:45:50 web:1621] Uncaught exception GET /test/batchinsert (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/batchinsert', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 18, in get
+        user_mobile=user_mobile, user_email=user_email)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 161, in execute
+        return self.execute_lastrowid(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 167, in execute_lastrowid
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 250, in execute
+        self.errorhandler(self, exc, value)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+        raise errorvalue
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 247, in execute
+        res = self._query(query)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 411, in _query
+        rowcount = self._do_query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+        db.query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 277, in query
+        _mysql.connection.query(self, query)
+    _mysql_exceptions.IntegrityError: (1062, "Duplicate entry '1' for key 'PRIMARY'")
+[E 190216 12:45:50 web:2106] 500 GET /test/batchinsert (127.0.0.1) 27.01ms
+[E 190216 12:45:54 web:1621] Uncaught exception GET /test/batchinsert (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/batchinsert', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 18, in get
+        user_mobile=user_mobile, user_email=user_email)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 161, in execute
+        return self.execute_lastrowid(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 167, in execute_lastrowid
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 250, in execute
+        self.errorhandler(self, exc, value)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+        raise errorvalue
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 247, in execute
+        res = self._query(query)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 411, in _query
+        rowcount = self._do_query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+        db.query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 277, in query
+        _mysql.connection.query(self, query)
+    _mysql_exceptions.IntegrityError: (1062, "Duplicate entry '0@fruler.com' for key 'up_email'")
+[E 190216 12:45:54 web:2106] 500 GET /test/batchinsert (127.0.0.1) 12.72ms
+[I 190216 12:48:42 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[E 190216 12:49:16 web:1621] Uncaught exception GET /test/batchinsert (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/batchinsert', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 238, in execute
+        query = query % args
+    TypeError: %d format: a number is required, not str
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 18, in get
+        user_mobile=user_mobile, user_email=user_email)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 161, in execute
+        return self.execute_lastrowid(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 167, in execute_lastrowid
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 240, in execute
+        self.errorhandler(self, ProgrammingError, str(m))
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 52, in defaulterrorhandler
+        raise errorclass(errorvalue)
+    _mysql_exceptions.ProgrammingError: %d format: a number is required, not str
+[E 190216 12:49:16 web:2106] 500 GET /test/batchinsert (127.0.0.1) 6.11ms
+[I 190216 12:49:37 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[E 190216 12:49:40 web:1621] Uncaught exception GET /test/batchinsert (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/batchinsert', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 238, in execute
+        query = query % args
+    TypeError: %d format: a number is required, not str
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 18, in get
+        user_mobile=user_mobile, user_email=user_email)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 161, in execute
+        return self.execute_lastrowid(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 167, in execute_lastrowid
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 240, in execute
+        self.errorhandler(self, ProgrammingError, str(m))
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 52, in defaulterrorhandler
+        raise errorclass(errorvalue)
+    _mysql_exceptions.ProgrammingError: %d format: a number is required, not str
+[E 190216 12:49:40 web:2106] 500 GET /test/batchinsert (127.0.0.1) 2.68ms
+[I 190216 12:51:14 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[E 190216 12:51:25 web:1621] Uncaught exception GET /test/batchinsert (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/batchinsert', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 18, in get
+        user_mobile=user_mobile, user_email=user_email)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 161, in execute
+        return self.execute_lastrowid(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 167, in execute_lastrowid
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 250, in execute
+        self.errorhandler(self, exc, value)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+        raise errorvalue
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 247, in execute
+        res = self._query(query)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 411, in _query
+        rowcount = self._do_query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+        db.query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 277, in query
+        _mysql.connection.query(self, query)
+    _mysql_exceptions.IntegrityError: (1062, "Duplicate entry '3' for key 'PRIMARY'")
+[E 190216 12:51:25 web:2106] 500 GET /test/batchinsert (127.0.0.1) 52.48ms
+[I 190216 12:53:17 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 12:53:28 web:2106] 200 GET /test/batchinsert (127.0.0.1) 106.83ms
+[I 190216 14:09:19 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[E 190216 14:09:28 web:1621] Uncaught exception GET /test/batchinsert (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/batchinsert', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 18, in get
+        user_mobile=user_mobile, user_email=user_email)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 161, in execute
+        return self.execute_lastrowid(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 167, in execute_lastrowid
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 250, in execute
+        self.errorhandler(self, exc, value)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+        raise errorvalue
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 247, in execute
+        res = self._query(query)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 411, in _query
+        rowcount = self._do_query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+        db.query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 277, in query
+        _mysql.connection.query(self, query)
+    _mysql_exceptions.IntegrityError: (1062, "Duplicate entry '1' for key 'PRIMARY'")
+[E 190216 14:09:28 web:2106] 500 GET /test/batchinsert (127.0.0.1) 19.54ms
+[I 190216 14:11:22 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 14:11:25 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 14:11:35 web:2106] 200 GET /test/batchinsert (127.0.0.1) 123.95ms
+[I 190216 14:14:50 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 14:15:17 web:2106] 304 GET /test/batchinsert (127.0.0.1) 11383.73ms
+[I 190216 14:17:09 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 14:17:20 autoreload:196] /home/fruler/PycharmProjects/TestAsync/config.py modified; restarting server
+[I 190216 14:21:02 web:2106] 304 GET /test/batchinsert (127.0.0.1) 182018.90ms
+[I 190216 14:51:46 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 14:51:52 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[E 190216 14:52:00 torndb:237] Error connecting to MySQL on 10.60.11.89
+[E 190216 14:52:00 web:1621] Uncaught exception GET /test/batchinsert (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/batchinsert', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 18, in get
+        user_mobile=user_mobile, user_email=user_email)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 161, in execute
+        return self.execute_lastrowid(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 167, in execute_lastrowid
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 250, in execute
+        self.errorhandler(self, exc, value)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+        raise errorvalue
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 247, in execute
+        res = self._query(query)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 411, in _query
+        rowcount = self._do_query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+        db.query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 277, in query
+        _mysql.connection.query(self, query)
+    _mysql_exceptions.OperationalError: (1136, "Column count doesn't match value count at row 1")
+[E 190216 14:52:00 web:2106] 500 GET /test/batchinsert (127.0.0.1) 60.83ms
+[I 190216 14:52:17 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 14:52:35 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 14:52:41 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 14:52:51 web:2106] 200 GET /test/batchinsert (127.0.0.1) 1638.83ms
+[I 190216 14:53:35 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 14:54:27 web:2106] 304 GET /test/batchinsert (127.0.0.1) 1696.97ms
+[I 190216 15:06:00 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 15:06:35 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 15:07:11 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[E 190216 15:07:39 web:1621] Uncaught exception GET /test/batchinsert (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/batchinsert', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 20, in get
+        user_mobile=user_mobile, user_email=user_email)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 161, in execute
+        return self.execute_lastrowid(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 167, in execute_lastrowid
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 250, in execute
+        self.errorhandler(self, exc, value)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+        raise errorvalue
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 247, in execute
+        res = self._query(query)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 411, in _query
+        rowcount = self._do_query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+        db.query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 277, in query
+        _mysql.connection.query(self, query)
+    _mysql_exceptions.IntegrityError: (1062, "Duplicate entry '11@fruler.com' for key 'up_email'")
+[E 190216 15:07:39 web:2106] 500 GET /test/batchinsert (127.0.0.1) 312.02ms
+[I 190216 15:08:09 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[E 190216 15:08:18 web:1621] Uncaught exception GET /test/batchinsert (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/batchinsert', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 238, in execute
+        query = query % args
+    TypeError: %d format: a number is required, not str
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 29, in get
+        product_price=product_price)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 161, in execute
+        return self.execute_lastrowid(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 167, in execute_lastrowid
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 240, in execute
+        self.errorhandler(self, ProgrammingError, str(m))
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 52, in defaulterrorhandler
+        raise errorclass(errorvalue)
+    _mysql_exceptions.ProgrammingError: %d format: a number is required, not str
+[E 190216 15:08:18 web:2106] 500 GET /test/batchinsert (127.0.0.1) 102.22ms
+[E 190216 15:11:27 web:1621] Uncaught exception GET /test/batchinsert (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/batchinsert', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 238, in execute
+        query = query % args
+    TypeError: %d format: a number is required, not str
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 29, in get
+        product_price=product_price)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 161, in execute
+        return self.execute_lastrowid(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 167, in execute_lastrowid
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 240, in execute
+        self.errorhandler(self, ProgrammingError, str(m))
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 52, in defaulterrorhandler
+        raise errorclass(errorvalue)
+    _mysql_exceptions.ProgrammingError: %d format: a number is required, not str
+[E 190216 15:11:27 web:2106] 500 GET /test/batchinsert (127.0.0.1) 106.02ms
+[I 190216 15:14:52 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[E 190216 15:15:33 web:1621] Uncaught exception GET /test/batchinsert (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/batchinsert', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 20, in get
+        user_mobile=user_mobile, user_email=user_email)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 161, in execute
+        return self.execute_lastrowid(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 167, in execute_lastrowid
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 250, in execute
+        self.errorhandler(self, exc, value)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+        raise errorvalue
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 247, in execute
+        res = self._query(query)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 411, in _query
+        rowcount = self._do_query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+        db.query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 277, in query
+        _mysql.connection.query(self, query)
+    _mysql_exceptions.IntegrityError: (1062, "Duplicate entry '11@fruler.com' for key 'up_email'")
+[E 190216 15:15:33 web:2106] 500 GET /test/batchinsert (127.0.0.1) 59.70ms
+[E 190216 15:16:52 web:1621] Uncaught exception GET /test/batchinsert (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/batchinsert', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 238, in execute
+        query = query % args
+    TypeError: %d format: a number is required, not str
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 29, in get
+        product_price=product_price)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 161, in execute
+        return self.execute_lastrowid(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 167, in execute_lastrowid
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 240, in execute
+        self.errorhandler(self, ProgrammingError, str(m))
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 52, in defaulterrorhandler
+        raise errorclass(errorvalue)
+    _mysql_exceptions.ProgrammingError: %d format: a number is required, not str
+[E 190216 15:16:52 web:2106] 500 GET /test/batchinsert (127.0.0.1) 179.82ms
+[I 190216 15:17:12 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[E 190216 15:17:25 web:1621] Uncaught exception GET /test/batchinsert (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/batchinsert', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 20, in get
+        user_mobile=user_mobile, user_email=user_email)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 161, in execute
+        return self.execute_lastrowid(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 167, in execute_lastrowid
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 250, in execute
+        self.errorhandler(self, exc, value)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+        raise errorvalue
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 247, in execute
+        res = self._query(query)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 411, in _query
+        rowcount = self._do_query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+        db.query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 277, in query
+        _mysql.connection.query(self, query)
+    _mysql_exceptions.IntegrityError: (1062, "Duplicate entry '11@fruler.com' for key 'up_email'")
+[E 190216 15:17:25 web:2106] 500 GET /test/batchinsert (127.0.0.1) 56.31ms
+[I 190216 15:18:06 web:2106] 200 GET /test/batchinsert (127.0.0.1) 3593.01ms
+[I 190216 15:20:09 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 15:22:28 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[E 190216 15:35:23 torndb:237] Error connecting to MySQL on 10.60.11.89
+[E 190216 15:35:23 web:1621] Uncaught exception GET /test/batchinsert (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/batchinsert', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 43, in get
+        ctime=ctime, utime=utime)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 161, in execute
+        return self.execute_lastrowid(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 167, in execute_lastrowid
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 250, in execute
+        self.errorhandler(self, exc, value)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+        raise errorvalue
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 247, in execute
+        res = self._query(query)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 411, in _query
+        rowcount = self._do_query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+        db.query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 277, in query
+        _mysql.connection.query(self, query)
+    _mysql_exceptions.OperationalError: (1366, "Incorrect integer value: '<built-in function id>' for column 'or_user_id' at row 1")
+[E 190216 15:35:23 web:2106] 500 GET /test/batchinsert (127.0.0.1) 59.22ms
+[I 190216 15:36:15 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[E 190216 15:36:22 torndb:237] Error connecting to MySQL on 10.60.11.89
+[E 190216 15:36:22 web:1621] Uncaught exception GET /test/batchinsert (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/batchinsert', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 43, in get
+        ctime=ctime, utime=utime)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 161, in execute
+        return self.execute_lastrowid(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 167, in execute_lastrowid
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 250, in execute
+        self.errorhandler(self, exc, value)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+        raise errorvalue
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 247, in execute
+        res = self._query(query)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 411, in _query
+        rowcount = self._do_query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+        db.query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 277, in query
+        _mysql.connection.query(self, query)
+    _mysql_exceptions.OperationalError: (1366, "Incorrect integer value: '<built-in function id>' for column 'or_user_id' at row 1")
+[E 190216 15:36:22 web:2106] 500 GET /test/batchinsert (127.0.0.1) 314.69ms
+[I 190216 15:37:12 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 15:37:16 web:2106] 200 GET /test/batchinsert (127.0.0.1) 1704.29ms
+[I 190216 15:40:57 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 15:41:05 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 15:41:39 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190216 15:42:32 web:2106] 304 GET /test/batchinsert (127.0.0.1) 4484.56ms
+[E 190216 17:15:47 web:1621] Uncaught exception GET /test/batchinsert (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/batchinsert', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 20, in get
+        user_mobile=user_mobile, user_email=user_email)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 161, in execute
+        return self.execute_lastrowid(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 167, in execute_lastrowid
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 250, in execute
+        self.errorhandler(self, exc, value)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+        raise errorvalue
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 247, in execute
+        res = self._query(query)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 411, in _query
+        rowcount = self._do_query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+        db.query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 277, in query
+        _mysql.connection.query(self, query)
+    _mysql_exceptions.IntegrityError: (1062, "Duplicate entry '1001@fruler.com' for key 'up_email'")
+[E 190216 17:15:47 web:2106] 500 GET /test/batchinsert (127.0.0.1) 314.01ms
+[I 190216 17:19:25 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[E 190216 17:19:56 web:1621] Uncaught exception GET /test/batchinsert (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/batchinsert', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 20, in get
+        user_mobile=user_mobile, user_email=user_email)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 161, in execute
+        return self.execute_lastrowid(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 167, in execute_lastrowid
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 250, in execute
+        self.errorhandler(self, exc, value)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 50, in defaulterrorhandler
+        raise errorvalue
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 247, in execute
+        res = self._query(query)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 411, in _query
+        rowcount = self._do_query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 374, in _do_query
+        db.query(q)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 277, in query
+        _mysql.connection.query(self, query)
+    _mysql_exceptions.IntegrityError: (1062, "Duplicate entry '1@fruler.com' for key 'up_email'")
+[E 190216 17:19:56 web:2106] 500 GET /test/batchinsert (127.0.0.1) 59.51ms
+[I 190216 17:20:40 web:2106] 200 GET /test/batchinsert (127.0.0.1) 6245.25ms
+[I 190216 17:24:53 autoreload:196] /home/fruler/PycharmProjects/TestAsync/config.py modified; restarting server
+[I 190216 17:26:36 web:2106] 304 GET /test/batchinsert (127.0.0.1) 3552.70ms
+[I 190216 17:28:51 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190217 10:19:32 web:2106] 304 GET /test/mysql (127.0.0.1) 54.15ms
+[I 190217 10:20:09 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[E 190217 10:20:21 web:1621] Uncaught exception GET /test/asyncmysql (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/asyncmysql', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 238, in execute
+        query = query % args
+    TypeError: format requires a mapping
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1543, in _execute
+        result = yield result
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/gen.py", line 1100, in run
+        value = future.result()
+      File "/usr/local/python-3.5.2/lib/python3.5/asyncio/futures.py", line 274, in result
+        raise self._exception
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/gen.py", line 315, in wrapper
+        yielded = next(result)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 67, in get
+        query = yield self.asyncdb.query(sql, user_id);
+      File "/home/fruler/PycharmProjects/TestAsync/utils/async_db.py", line 11, in wrapper
+        result = func(query, *args, **kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/utils/async_db.py", line 27, in query
+        return super(AsyncMysql, self).query(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 136, in query
+        self._execute(cursor, query, parameters, kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 235, in _execute
+        return cursor.execute(query, kwparameters or parameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/cursors.py", line 240, in execute
+        self.errorhandler(self, ProgrammingError, str(m))
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/MySQLdb/connections.py", line 52, in defaulterrorhandler
+        raise errorclass(errorvalue)
+    _mysql_exceptions.ProgrammingError: format requires a mapping
+[E 190217 10:20:21 web:2106] 500 GET /test/asyncmysql (127.0.0.1) 4.57ms
+[I 190217 10:20:39 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190217 10:20:43 web:2106] 200 GET /test/asyncmysql (127.0.0.1) 54.97ms
+[I 190217 10:20:49 web:2106] 304 GET /test/asyncmysql (127.0.0.1) 49.47ms
+[I 190217 10:20:49 web:2106] 304 GET /test/asyncmysql (127.0.0.1) 49.55ms
+[I 190217 10:20:49 web:2106] 304 GET /test/asyncmysql (127.0.0.1) 45.88ms
+[I 190217 10:20:50 web:2106] 304 GET /test/asyncmysql (127.0.0.1) 48.49ms
+[I 190217 10:20:50 web:2106] 304 GET /test/asyncmysql (127.0.0.1) 58.01ms
+[I 190217 10:20:50 web:2106] 304 GET /test/asyncmysql (127.0.0.1) 50.60ms
+[I 190217 10:26:37 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190217 10:28:44 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190217 10:28:49 web:2106] 304 GET /test/asyncmysql (127.0.0.1) 54.94ms
+[E 190217 10:28:52 web:1621] Uncaught exception GET /test/mysql (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/mysql', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 61, in get
+        return self.write(query)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 739, in write
+        raise TypeError(message)
+    TypeError: write() only accepts bytes, unicode, and dict objects. Lists not accepted for security reasons; see http://www.tornadoweb.org/en/stable/web.html#tornado.web.RequestHandler.write
+[E 190217 10:28:52 web:2106] 500 GET /test/mysql (127.0.0.1) 44.37ms
+[I 190217 10:29:18 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[I 190217 10:29:19 web:2106] 200 GET /test/mysql (127.0.0.1) 46.36ms
+[I 190217 10:29:30 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
+[E 190217 10:29:33 web:1621] Uncaught exception GET /test/asyncmysql (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/asyncmysql', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1543, in _execute
+        result = yield result
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/gen.py", line 1100, in run
+        value = future.result()
+      File "/usr/local/python-3.5.2/lib/python3.5/asyncio/futures.py", line 274, in result
+        raise self._exception
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/gen.py", line 315, in wrapper
+        yielded = next(result)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 70, in get
+        query = yield self.asyncdb.get(sql, user_id=user_id);
+      File "/home/fruler/PycharmProjects/TestAsync/utils/async_db.py", line 11, in wrapper
+        result = func(query, *args, **kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/utils/async_db.py", line 31, in get
+        return super(AsyncMysql, self).get(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 152, in get
+        elif len(rows) > 1:
+    TypeError: object of type 'Future' has no len()
+[E 190217 10:29:33 web:2106] 500 GET /test/asyncmysql (127.0.0.1) 49.51ms
+[E 190217 10:33:26 web:1621] Uncaught exception GET /test/asyncmysql (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/asyncmysql', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1543, in _execute
+        result = yield result
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/gen.py", line 1100, in run
+        value = future.result()
+      File "/usr/local/python-3.5.2/lib/python3.5/asyncio/futures.py", line 274, in result
+        raise self._exception
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/gen.py", line 315, in wrapper
+        yielded = next(result)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 70, in get
+        query = yield self.asyncdb.get(sql, user_id=user_id);
+      File "/home/fruler/PycharmProjects/TestAsync/utils/async_db.py", line 11, in wrapper
+        result = func(query, *args, **kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/utils/async_db.py", line 31, in get
+        return super(AsyncMysql, self).get(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 152, in get
+        elif len(rows) > 1:
+    TypeError: object of type 'Future' has no len()
+[E 190217 10:33:26 web:2106] 500 GET /test/asyncmysql (127.0.0.1) 51.17ms
+[I 190217 10:34:56 autoreload:196] /usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py modified; restarting server
+[I 190217 10:35:11 autoreload:196] /usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py modified; restarting server
+[I 190217 10:35:57 autoreload:196] /usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py modified; restarting server
+[E 190217 10:36:14 web:1621] Uncaught exception GET /test/asyncmysql (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/asyncmysql', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1543, in _execute
+        result = yield result
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/gen.py", line 1100, in run
+        value = future.result()
+      File "/usr/local/python-3.5.2/lib/python3.5/asyncio/futures.py", line 274, in result
+        raise self._exception
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/gen.py", line 315, in wrapper
+        yielded = next(result)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 70, in get
+        query = yield self.asyncdb.get(sql, user_id=user_id);
+      File "/home/fruler/PycharmProjects/TestAsync/utils/async_db.py", line 11, in wrapper
+        result = func(query, *args, **kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/utils/async_db.py", line 31, in get
+        return super(AsyncMysql, self).get(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 153, in get
+        elif len(rows) > 1:
+    TypeError: object of type 'method' has no len()
+[E 190217 10:36:14 web:2106] 500 GET /test/asyncmysql (127.0.0.1) 51.37ms
+[I 190217 10:37:09 autoreload:196] /usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py modified; restarting server
+[E 190217 10:37:20 web:1621] Uncaught exception GET /test/asyncmysql (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/asyncmysql', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1543, in _execute
+        result = yield result
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/gen.py", line 1100, in run
+        value = future.result()
+      File "/usr/local/python-3.5.2/lib/python3.5/asyncio/futures.py", line 274, in result
+        raise self._exception
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/gen.py", line 315, in wrapper
+        yielded = next(result)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 70, in get
+        query = yield self.asyncdb.get(sql, user_id=user_id);
+      File "/home/fruler/PycharmProjects/TestAsync/utils/async_db.py", line 11, in wrapper
+        result = func(query, *args, **kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/utils/async_db.py", line 31, in get
+        return super(AsyncMysql, self).get(query, *parameters, **kwparameters)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 150, in get
+        rows = rows.get_result()
+    AttributeError: 'Future' object has no attribute 'get_result'
+[E 190217 10:37:20 web:2106] 500 GET /test/asyncmysql (127.0.0.1) 64.60ms
+[I 190217 10:38:36 autoreload:196] /usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py modified; restarting server
+[I 190217 10:38:40 web:2106] 200 GET /test/asyncmysql (127.0.0.1) 49.90ms
+[I 190217 10:45:28 autoreload:196] /usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py modified; restarting server
+[E 190217 10:51:35 web:1621] Uncaught exception GET /test/mysql (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/mysql', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 60, in get
+        query = self.db.get(sql, user_id=user_id)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 150, in get
+        rows = rows.result()
+    AttributeError: 'list' object has no attribute 'result'
+[E 190217 10:51:35 web:2106] 500 GET /test/mysql (127.0.0.1) 52.54ms
+[I 190217 10:59:34 autoreload:196] /usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py modified; restarting server
+[E 190217 11:01:23 web:1621] Uncaught exception GET /test/mysql (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8002', method='GET', uri='/test/mysql', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/tornado/web.py", line 1541, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/home/fruler/PycharmProjects/TestAsync/handler/testconn.py", line 60, in get
+        query = self.db.get(sql, user_id=user_id)
+      File "/usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py", line 153, in get
+        if isinstance(rows, futre_type):
+    NameError: name 'futre_type' is not defined
+[E 190217 11:01:23 web:2106] 500 GET /test/mysql (127.0.0.1) 54.11ms
+[I 190217 11:01:50 autoreload:196] /usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py modified; restarting server
+[I 190217 11:01:55 web:2106] 200 GET /test/mysql (127.0.0.1) 67.48ms
+[I 190217 11:01:58 web:2106] 304 GET /test/asyncmysql (127.0.0.1) 93.00ms
+[I 190217 11:08:18 autoreload:196] /usr/local/python-3.5.2/lib/python3.5/site-packages/torndb.py modified; restarting server
+[I 190217 11:11:03 autoreload:196] /home/fruler/PycharmProjects/TestAsync/handler/testconn.py modified; restarting server
